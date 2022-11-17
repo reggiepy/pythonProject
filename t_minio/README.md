@@ -1,0 +1,1 @@
+# 测试 minio python 客户端
